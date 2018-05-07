@@ -21,7 +21,7 @@ each language, for example:
     ...
 
 ### Source Files
-Source files contain all of the boilerplate, with a special character specifying where to interpolate the strings.  By default, this character is ``` (backtick).  For a simple text document example:
+Source files contain all of the boilerplate, with a special character specifying where to interpolate the strings.  By default, this character is `` ` `` (backtick).  For a simple text document example:
 
     I like to put `h on my `e's
     but not to put `e on `h, that's gross
