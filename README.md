@@ -44,3 +44,9 @@ if a localfile is not specified, it defaults to locali
     		use file locali, language "eng", and backtick to generate eng.eggsandham.txt
     	loca -c + -o eng.txt -l spa eggs.txt.loc localize.csv
     		use file localize.csv, language "spa", and + to generate eng.txt
+
+Using the first invocation, with the files above, the results would be:
+
+    I like to put ham on my eggs's
+    but not to put eggs on ham, that's gross
+    the only thing worse is a ham by itself
